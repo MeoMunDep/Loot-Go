@@ -77,12 +77,12 @@ This file controls the bot’s behavior. Below is an example configuration:
 
 ### 2. `datas.txt` - 🗂️ User Data
 
-Fill the `datas.txt` file with these datas from [here](https://t.me/KeoAirDropFreeNe/257/6879). This file contains user data in the following format:
+Fill the `datas.txt` file with your emails. This file contains user data in the following format:
 
 ```txt
-query_id.../user...
-query_id.../user...
-query_id.../user...
+abcxyz@gmail.com
+abcxyz@gmail.com
+abcxyz@gmail.com
 ```
 
 _Note: Each row for each account_
