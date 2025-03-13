@@ -1,1 +1,1 @@
-# Check out my new youtube video, LOL
+print(f"STOP UPDATING!, PLEASE CHOOSE ANOTHER SCRIPTS!")
